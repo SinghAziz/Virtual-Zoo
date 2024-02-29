@@ -9,3 +9,6 @@ Hardware-A hardware model which will be very low cost that when kept on screen a
 
 Link to Flow Chart:
 https://drive.google.com/file/d/1kqwE-O2pRE3S4W-qfwuQXcNvV5EQ91L4/view?usp=sharing
+
+Demo to Hardware (functioning of hologram):
+https://drive.google.com/file/d/1X6JWw1jg_h42YVXorh1DxApZFB2acbE5/view?usp=sharing
