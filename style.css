@@ -100,7 +100,7 @@ section{
   font-weight: bolder;
   color: var(--black);
   position: relative;
-  right: 300px;
+  right: 250px;
 }
 
 .header .logo i{
@@ -261,6 +261,88 @@ section{
   transform: translateY(-20px);
 }
 
+
+
+
+.footer{
+  background: #f9f9f9;
+}
+
+.footer .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  gap: 2rem;
+}
+
+.footer .box-container .box h3{
+  font-size: 2.2rem;
+  color: #00a72cb4;
+  padding: 1rem 0;
+}
+
+.footer .box-container .box h3 i{
+  color: #00a72cb4;
+  padding-right: .5rem;
+}
+
+.footer .box-container .box p{
+  font-size: 1.5rem;
+  color: #00a72cb4;
+  padding: 1rem 0;
+  line-height: 2;
+}
+
+.footer .box-container .box .share{
+  margin-top: 1rem;
+}
+
+.footer .box-container .box .share a{
+  height: 4.5rem;
+  width: 4.5rem;
+  line-height:  4.5rem;
+  font-size: 1.7rem;
+  background: #00a72cb4;
+  color: #fff;
+  margin-right: .3rem;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.footer .box-container .box .share a:hover{
+  background: #00a72cb4;
+  transform: rotate(360deg);
+}
+
+.footer .box-container .box .link{
+  display: block;
+  font-size: 1.7rem;
+  line-height: 2;
+  padding: .5rem 0;
+  color: #00a72cb4;
+}
+
+.footer .box-container .box .link:hover{
+  color: #00a72cb4;
+}
+
+.footer .box-container .box .link i{
+  padding-right: .5rem;
+  color: #07240fb4;
+}
+
+.footer .credit{
+  margin-top: 2.5rem;
+  padding: 1rem;
+  padding-top: 2rem;
+  border-top: 0.1rem solid rgba(0, 0, 0, 0.3);
+  text-align: center;
+  color: #00a72cb4;
+  font-size: 2rem;
+}
+
+.footer .credit span{
+  color: #00a72cb4;
+}
 
 
 
